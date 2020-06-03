@@ -1,0 +1,3 @@
+Running instructions(Considering you have npm installed):-
+	1. open cmd prompt and choose the path directory of project
+	2. then run this command: npm start 
